@@ -4,8 +4,7 @@ Automated Discord Bot Adder
  ```json
 {
   "howToBuy":"DM ME",
-  "My Discord ID":["✥ HoSeiN ιnvιѕ
-#0660","724661182153359482"]
+  "My Discord ID":"✥ HoSeiN ιnvιѕ#0660","724661182153359482"]
 }
 ```
 
