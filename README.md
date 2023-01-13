@@ -1,7 +1,8 @@
 # mass-discord-bot-adder
 Automated Discord Bot Adder
 > Instead of creating a fake discord account, avoid pruning your discord server by adding a bot
-[Discord](https://discord.gg/qurWsdBnzA)
+
+[Discord Server](https://discord.gg/qurWsdBnzA)
 
  ```json
 {
