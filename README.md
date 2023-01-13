@@ -1,3 +1,7 @@
 # mass-discord-bot-adder
 Automated Discord Bot Adder
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://media.discordapp.net/attachments/1052902389327339520/1063537621583794266/Hola.mp4)
+
+
+
+https://user-images.githubusercontent.com/65454734/212402435-1e1a840a-f417-4539-9059-d473992ecbc3.mp4
+
