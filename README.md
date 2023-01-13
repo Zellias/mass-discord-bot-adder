@@ -2,8 +2,6 @@
 Automated Discord Bot Adder
 > Instead of creating a fake discord account, avoid pruning your discord server by adding a bot
 
-[Discord Server](https://discord.gg/qurWsdBnzA)
-
  ```json
 {
   "howToBuy":"DM ME",
