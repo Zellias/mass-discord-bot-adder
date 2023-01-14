@@ -2,10 +2,12 @@
 Automated Discord Bot Adder
 > Instead of creating a fake discord account, avoid pruning your discord server by adding a bot
 
+[ Join Us ](https://discord.gg/vatican)
  ```json
 {
   "howToBuy":"DM ME",
   "My Discord ID":["✥ HoSeiN ιnvιѕ#0660","724661182153359482"],
+  "serverLink":"https://discord.gg/vatican"
 }
 ```
 
