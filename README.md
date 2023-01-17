@@ -13,7 +13,11 @@ Automated Discord Bot Adder
 
 > This Script Fully Developed by Me & [Scartal](https://github.com/SCARTAL)
 
-https://user-images.githubusercontent.com/65454734/212402435-1e1a840a-f417-4539-9059-d473992ecbc3.mp4
 
 
+
+
+
+
+https://user-images.githubusercontent.com/65454734/213034945-e23198e0-6c4b-40de-ab92-0f7d215a6ee4.mp4
 
