@@ -2,7 +2,8 @@
 Automated Discord Bot Adder
 > Instead of creating a fake discord account, avoid pruning your discord server by adding a bot
 
-** NOW WITH CAPTCHA BYPASS AND YOU DONT NEED ANY CAPTCHA KEY OR CAPTCHA SOLVING PROVIDER **
+**NOW WITH CAPTCHA BYPASS AND YOU DONT NEED ANY CAPTCHA KEY OR CAPTCHA SOLVING PROVIDER**
+
 [ Join Us ](https://discord.gg/vatican)
  ```json
 {
