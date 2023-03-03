@@ -8,7 +8,7 @@ Automated Discord Bot Adder
  ```json
 {
   "howToBuy":"DM ME",
-  "My Discord ID":["✥ HoSeiN ιnvιѕ#0660","724661182153359482"],
+  "My Discord ID":["Zellias#0001","927147384927047690"],
   "serverLink":"https://discord.gg/vatican"
 }
 ```
@@ -16,7 +16,7 @@ Automated Discord Bot Adder
 > This Script Fully Developed by Me & [Scartal](https://github.com/SCARTAL)
 
 
-
+ 
 
 
 
